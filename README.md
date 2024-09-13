@@ -1,1 +1,1 @@
-Assignment 1. Chapter 1,2 and 3 of Javascript
+Assignment 1. Chapter 1-5 of Javascript
